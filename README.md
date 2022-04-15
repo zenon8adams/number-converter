@@ -1,5 +1,5 @@
 # Number Converter #
- A program that converts numbers to words and vice-versa
+ Set of programs that converts numbers to words and vice-versa
 
 ## Compiling
 
